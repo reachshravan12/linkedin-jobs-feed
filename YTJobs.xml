@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+	<job>
+		<partnerJobId>
+			<![CDATA[YT-12345]]>
+		</partnerJobId>
+		<company>
+			<![CDATA[YourTribe]]>
+		</company>
+		<title>
+			<![CDATA[Frontend Developer]]>
+		</title>
+		<description>
+			<![CDATA[We’re looking for a skilled React Engineer who’s passionate about building high-quality user interfaces using modern web technologies. You’ll work closely with product and design teams to bring features to life and improve the overall user experience across our platform.  ]]>
+		</description>
+		<applyUrl>
+			<![CDATA[https://www.yourtribe.io/find-jobs/frontend-developer-4]]>
+		</applyUrl>
+		<location>
+			<![CDATA[Chennai, India]]>
+		</location>
+		<workplaceTypes>
+			<![CDATA[On-site]]>
+		</workplaceTypes>
+		<jobtype>
+			<![CDATA[FULL_TIME]]>
+		</jobtype>
+		<skills>
+			<skill >
+				<![CDATA[React]]>
+			</skill>
+			<skill>
+				<![CDATA[HTML5]]>
+			</skill>
+			<skill>
+				<![CDATA[CSS3]]>
+			</skill> 
+			<skill >
+				<![CDATA[Javascript]]>
+			</skill>
+		</skills>
+		<salaries>
+			<salary>
+				<highEnd>
+					<amount>
+						<![CDATA[2000000]]>
+					</amount>
+					<currencyCode> INR </currencyCode>
+				</highEnd>
+				<lowEnd>
+					<amount>
+						<![CDATA[1500000]]>
+					</amount>
+					<currencyCode> INR </currencyCode>
+				</lowEnd>
+				<period>
+					<![CDATA[YEARLY]]>
+				</period>
+				<type>
+					<![CDATA[BASE_SALARY]]>
+				</type>
+			</salary>
+			<salary>
+				<highEnd>
+					<amount>
+						<![CDATA[50000]]>
+					</amount>
+					<currencyCode> INR </currencyCode>
+				</highEnd>
+				<lowEnd>
+					<amount>
+						<![CDATA[40000]]>
+					</amount>
+					<currencyCode> INR </currencyCode>
+				</lowEnd>
+				<period>
+					<![CDATA[YEARLY]]>
+				</period>
+				<type>
+					<![CDATA[TOTAL_ADDITIONAL]]>
+				</type>
+			</salary>
+		</salaries>
+		<jobPostingAvailability>
+			<![CDATA[PUBLIC]]>
+		</jobPostingAvailability>
+	</job>
+</source>
