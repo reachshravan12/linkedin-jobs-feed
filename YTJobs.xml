@@ -65,13 +65,13 @@
 					<amount>
 						<![CDATA[50000]]>
 					</amount>
-					<currencyCode> INR </currencyCode>
+					<currencyCode>INR</currencyCode>
 				</highEnd>
 				<lowEnd>
 					<amount>
 						<![CDATA[40000]]>
 					</amount>
-					<currencyCode> INR </currencyCode>
+					<currencyCode>INR</currencyCode>
 				</lowEnd>
 				<period>
 					<![CDATA[YEARLY]]>
